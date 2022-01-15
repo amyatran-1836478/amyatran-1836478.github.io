@@ -2,13 +2,13 @@ body {background-color: thistle;}
 h1	 {
 	  color: darkmagenta;
 	  font-family: garamond;
-	  font-size:200%
+	  font-size:500%
 }
 h2	 {color: maroon;}
 p	 {
 	  color: bisque;
 	  font-family: lucida console;
-	  font-size:150%
+	  font-size:250%
 }
 div {
 		border-style: dotted;
@@ -32,7 +32,7 @@ div {
 h3	 {
 	  color: darkslategrey;
 	  font-family: times new roman;
-	  font-size:150%
+	  font-size:350%
 }	
 a:link, a:visited {
   background-color: #40E0D0;
