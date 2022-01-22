@@ -1,0 +1,108 @@
+body{
+	background-image: url('dark_wood.png');
+	
+}
+p{
+	color: white;
+	font-weight: bold;
+	font-family: "Arial";
+}
+h3{
+	color: #FFBC00;
+	font-size: 40px;
+	font-family: "Passion One";
+	margin-bottom: 0px;
+	background-color: #8E41D5;
+}
+a{
+	color: white;
+	font-weight: bold;
+	font-size: 24px;
+}
+li{
+	
+}
+#Header{
+	border: solid 8px black;
+	background-color: #8E41D5;
+	width: 500px;
+	margin-left: auto;
+	margin-right: auto;
+	margin-bottom: 10px;
+	text-align: center;
+}
+#Stats
+a:link, a:visited{
+  background-color: #8E41D5;
+  color: #FFBC00;
+  padding: 14px 25px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  float: right;
+  font-family: Garamond, serif;
+  border-radius: 30px;
+}
+#Dropdown{
+  background-color: #8E41D5;
+  color: #FFBC00;
+  padding: 16px;
+  font-size: 16px;
+  border: none;
+  cursor: pointer;
+  float: right;
+  margin-right: 50px;
+}
+#Header h1{
+	font-size: 60px;
+	font-family: "Passion-One";
+	color: #FFBC00;
+	font-weight: bold;
+}
+#LeftNav{
+	text-align: center;
+	background-color: #8E41D5;
+	border: solid 8px black;
+	width: 400px;
+	float: left;
+	border-radius: 30px;
+}
+#LeftNav img{
+	border-radius: 25px;
+	opacity: 0.5;
+}
+#LeftNav ul{
+	list-style-type: none;
+	padding-left: 0px;
+	padding-bottom: 8px;
+	background-color: #8E41D5;
+	border-radius: 30px;
+}
+#LeftNav h3{
+	
+}
+#bow{
+	color: #FFBC00;
+}
+#Content{
+	border: solid 8px black;
+	width:700px;
+	margin-left: auto;
+	margin-right: auto;
+	margin-bottom: 10px;
+	padding: 15px;
+	background-color: #8E41D5;
+	text-align: center;
+	border-radius: 30px;
+}
+#Content img{
+	border-radius: 50px;
+}
+#Footer ul{
+	list-style-type: none;
+}
+#Footer{
+	text-align: center;
+	background-color: #8E41D5;
+	border: solid 8px black;
+}
