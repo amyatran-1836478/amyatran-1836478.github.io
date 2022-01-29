@@ -77,27 +77,27 @@ h6 {
 }
 
 h1 {
-    font-size: 24px
+    font-size: 28px
 }
 
 h2 {
-    font-size: 22px
+    font-size: 24px
 }
 
 h3 {
-    font-size: 18px
+    font-size: 20px
 }
 
 h4 {
-    font-size: 16px
+    font-size: 18px
 }
 
 h5 {
-    font-size: 14px
+    font-size: 16px
 }
 
 h6 {
-    font-size: 13px
+    font-size: 15px
 }
 
 *,
@@ -134,7 +134,7 @@ ol {
 p {
     margin: 20px;
     font-weight: 300;
-    font-size: 15px;
+    font-size: 25px;
     line-height: 24px;
 }
 
@@ -173,7 +173,7 @@ img {
     background-color: transparent !important;
     border: 2px solid #ddd;
     padding: 12px 40px;
-    font-size: 16px;
+    font-size: 20px;
 }
 
 .lead {
@@ -293,7 +293,7 @@ button {
     height: 65px;
     background: #fff;
     opacity: 1;
-    font-size: 30px;
+    font-size: 35px;
     color: #091e30;
     border-radius: 100%;
 }
@@ -322,7 +322,7 @@ button {
 .number_text {
     width: 100%;
     float: left;
-    font-size: 20px;
+    font-size: 25px;
     color: #fffdf6;
     padding-left: 10px;
 }
@@ -342,7 +342,7 @@ button {
 .construction_text {
     width: 100%;
     float: left;
-    font-size: 40px;
+    font-size: 45px;
     color: #ffffff;
     font-weight: bold;
 }
@@ -366,7 +366,7 @@ button {
 .contact_bt {
     width: 35%;
     float: left;
-    font-size: 16px;
+    font-size: 20px;
     color: #ffffff;
     border: 1px solid#ffffff;
     border-radius: 5px;
@@ -389,7 +389,7 @@ button {
 .get_bt {
     width: 35%;
     float: left;
-    font-size: 16px;
+    font-size: 18px;
     color: #ffffff;
     border: 1px solid#ffffff;
     border-radius: 5px;
@@ -442,7 +442,7 @@ button {
 .about_bt a {
     width: 40%;
     float: left;
-    font-size: 16px;
+    font-size: 20px;
     color: #ffffff;
     border-radius: 5px;
     background-color: #FF7ACD;
