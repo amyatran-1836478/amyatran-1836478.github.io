@@ -605,6 +605,7 @@ button {
     width: 100%;
     float: left;
     text-align: center;
+	color:#FFFFFF;
 }
 
 .client_long_text {
@@ -612,7 +613,7 @@ button {
     margin: 0 auto;
     text-align: center;
     font-size: 17px;
-    color: #040403;
+    color: #33FF71;
     text-align: center;
     padding-top: 40px;
 }
@@ -652,7 +653,7 @@ button {
 .client_lorem_text {
     width: 85%;
     float: left;
-    color: #fffdf6;
+    color: #33FF71;
     font-size: 17px;
     margin-left: 0px;
     position: relative;
