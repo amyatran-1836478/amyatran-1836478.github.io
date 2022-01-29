@@ -559,7 +559,7 @@ button {
 .clients_section {
     width: 100%;
     float: left;
-    background-image: url(../images/img-5.png);
+    background-image: url(../images/masterchef.jpg); opacity:50%;
     height: auto;
     background-size: 100%;
 }
